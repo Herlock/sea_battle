@@ -1,2 +1,1 @@
-# sea_battle
-tensor tt
+# sea_battle 🚢
